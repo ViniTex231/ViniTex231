@@ -6,7 +6,7 @@
     			<img src="https://skillicons.dev/icons?i=py,java,js,nodejs,react,django,html,css,github,mysql&perline=6" width="38%" height="38%"/>
   		</a>
 	</p>
-</div>   // LINGUAGENS, ACESSAR O SITE PARA VER A DOCUMENTAÇÃO DAS LINGUAGENS
+</div>
 
 
 
